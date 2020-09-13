@@ -20,5 +20,4 @@ optional arguments:
 需要知道up主的id，这个很简单，到up主的个人信息页面，url里的最后一个数字串即up主的id。获取id后执行脚本，可以通过page和page_size两个参数来调整需要获取到哦Up主的视频列表，然后脚本执行过程中会让选择一个视频，然后获取该视频的所有评论，最后会让输入保存的文件名字，并将评论保存到文件里.
 
 下面以[真我心理BeMyself](https://space.bilibili.com/386364189)这个Up主为例，获取指定视频的评论
-
-![https://asciinema.org/a/p6phpRIS592uSeN965UHvcjlS](https://asciinema.org/a/p6phpRIS592uSeN965UHvcjlS)
+[![asciicast](https://asciinema.org/a/p6phpRIS592uSeN965UHvcjlS.svg)](https://asciinema.org/a/p6phpRIS592uSeN965UHvcjlS)
