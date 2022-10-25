@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@notion-cms/client": "^0.2.0",
+    "@notion-cms/react": "^0.2.0",
+    "@notionhq/client": "^2.2.1",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
